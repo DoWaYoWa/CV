@@ -1,0 +1,126 @@
+div {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  background-color: #a2d5f2;
+}
+
+h1 {
+  color: #07689f;
+  padding-top: 15px;
+  margin: 13px;
+}
+
+h2 {
+  color: #07689f;
+  margin: 10px;
+  font-size: 30px;
+}
+
+h3 {
+  color: #07689f;
+  font-family: 'Balsamiq Sans', 'Work Sans', sans-serif;
+  padding-top: 5px;
+  padding-bottom: 2px;
+  margin: 8px;
+}
+
+p {
+  color: #07689f;
+  font-size: 18px;
+  margin: 13px;
+  padding-bottom: 5px;
+}
+
+.lando {
+  font-family: 'Rock Salt', cursive;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top {
+  background-color: #ffc93c;
+  position: relative;
+  padding-top: 50px;
+  border-bottom: solid 7px #07689f;
+}
+
+.middle {
+  background-color: #a2d5f2;
+  padding-top: 0px;
+  padding-bottom: 20px;
+  margin: auto;
+}
+
+.profile {
+  padding-top: 32px;
+}
+
+.about {
+  padding-top: 10px;
+}
+
+.about_paragraph {
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+}
+
+.skill-row {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.contact-me {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.bottom {
+  background-color: #40a8c4;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 25px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 310px;
+}
+
+.mountain {
+  display: inline-block;
+  position: relative;
+  bottom: -5px;
+}
+
+.skill-image-border {
+  border: 5px solid;
+  border-image: url('Images\borders-png-22949.png') solid;
+  border-image-slice: 214 200 209 233;
+  border-image-width: 20px 20px 20px 20px;
+  border-image-outset: 0px 0px 0px 0px;
+  border-image-repeat: stretch stretch;
+  margin-bottom: 7px;
+}
+
+/*---- GOOGLE FONT FAMILIES
+
+font-family: 'Balsamiq Sans', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'MuseoModerno', cursive;
+font-family: 'Rock Salt', cursive;
+font-family: 'Walter Turncoat', cursive;
+font-family: 'Work Sans', sans-serif;
